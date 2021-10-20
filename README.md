@@ -1,6 +1,23 @@
 - 👋 Hi, I’m @joseamaltes
-I know javascript and python. 
 - 👀 I’m interested in data science and crypto. 
 - 🌱 I’m currently learning data analytics and backend development. 
-- 💞️ I’m looking to collaborate on projects with high impact. 
+- 💞️ I’m looking to collaborate on projects with high impact.
+You can visit me at: www.joseamaltes.com
+
+👨🏽‍💻Techonologies I use: 
+
+📊Data analytics
+-R
+-Data studio
+-Tableu
+
+💻Web development
+-Javascript 
+-Nodejs
+-HTML
+-CSS
+
+
+
+
 

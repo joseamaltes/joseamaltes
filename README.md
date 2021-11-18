@@ -7,6 +7,7 @@ You can visit me at: www.joseamaltes.com
 👨🏽‍💻Techonologies I use: 
 
 📊Data analytics
+-Python
 -R
 -Data studio
 -Tableu
